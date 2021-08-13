@@ -1,0 +1,5 @@
+{
+    "require": {
+        "vsavritsky/bitrix-class-loader-helper": "^0.0.1"
+    }
+}
