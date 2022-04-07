@@ -44,7 +44,7 @@ class ServiceContainer
         $this->register($directory);
     }
 
-    public function get($name): ?AbstractServiceContainer
+    public function get($name)
     {
         /** @var AbstractServiceContainer $service */
         foreach ($this->services as $service) {
