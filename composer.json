@@ -1,10 +1,10 @@
 {
-    "name": "vsavritsky/bitrix-service-container",
+    "name": "reak002/bitrix-service-container",
     "description": "Библиотека сервис контейнера",
     "type": "library",
     "require": {
-        "php": ">=7.1",
-        "vsavritsky/bitrix-class-loader-helper": "^0.0.1"
+        "php": ">=8.1",
+        "reak002/bitrix-class-loader-helper": "^0.0.1"
     },
     "minimum-stability": "stable",
     "autoload": {
